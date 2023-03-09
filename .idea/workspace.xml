@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e97883c7-324f-4c3d-a50d-75aef35c9df9" name="Changes" comment="OrderStatus-Enums from an Order, Switch and print out Id and OrderStatus" />
+    <list default="true" id="e97883c7-324f-4c3d-a50d-75aef35c9df9" name="Changes" comment="something">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678373868166</updated>
-      <workItem from="1678373870084" duration="3993000" />
+      <workItem from="1678373870084" duration="4580000" />
     </task>
     <task id="LOCAL-00001" summary="OrderStatus-Enums from an Order, Switch and print out Id and OrderStatus">
       <created>1678380060169</created>
@@ -66,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678380060169</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="something">
+      <created>1678380169122</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678380169122</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +94,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="OrderStatus-Enums from an Order, Switch and print out Id and OrderStatus" />
-    <option name="LAST_COMMIT_MESSAGE" value="OrderStatus-Enums from an Order, Switch and print out Id and OrderStatus" />
+    <MESSAGE value="something" />
+    <option name="LAST_COMMIT_MESSAGE" value="something" />
   </component>
 </project>
